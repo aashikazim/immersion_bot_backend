@@ -1,0 +1,6 @@
+class CommandType:
+    GO_TO_GOAL = "GO_TO_GOAL"
+    MANUAL_CONTROL = "MANUAL_CONTROL"
+    STOP = "STOP"
+    PURSUIT = "PURSUIT"
+    CONFIG = "CONFIG"
